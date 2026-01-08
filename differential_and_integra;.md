@@ -14,9 +14,6 @@ $$
 $$
 
 $$
-R^+= \{ x∈R∣x>0 \} 
-\mathbb{R}^+ = \left\{ x \in \mathbb{R} \mid x > 0 \right\}
+N_A
 $$
-$
-\mathbb{R}^+ = { x \in \mathbb{R} \mid x > 0 }
-$
+http://tnw-nb-open-courses.tudelft.nl/NB2220/content/Exercise_set_4.html
