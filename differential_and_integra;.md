@@ -17,3 +17,5 @@ $$
 N_A
 $$
 http://tnw-nb-open-courses.tudelft.nl/NB2220/content/Exercise_set_4.html
+
+psi index with a subscript -> different combinations of particle velocities can result in the same combination of energy in macrostate
