@@ -1,4 +1,4 @@
-duality:
+# **duality :**
 double dual, bidual, different object types to same family of scalars
 
 $$
@@ -22,7 +22,7 @@ psi index with a subscript -> different combinations of particle velocities can 
 
 ---
 title: "Project Title"
-author: "Your Name"
+author: "zeta"
 date: 2026-01-09
 ---
 
@@ -30,7 +30,7 @@ date: 2026-01-09
 # Introduction
 
 
-This project demonstrates **Markdown with integrated LaTeX**.
+
 
 
 Inline math works like this: $E = mc^2$.
@@ -44,7 +44,7 @@ $$
 $$
 
 
-# Main Result
+# 
 
 
 We define the loss function as:
@@ -57,7 +57,26 @@ $$
 $$
 N_A
 $$
-# Figure
 
+
+# **transformation**
+
+$$
+T(t_1) 
+$$
 
 ![Example Image](../assets/images/example.png)
+
+# **vertices, edges**
+**edges**(arcs):</br>
+&nbsp;&nbsp;&nbsp;**undirected graph** - unordered pair
+
+<img width="168" height="45" alt="{6FC6D0BF-3D2E-46A6-8F88-815B76BA75B2}" src="https://github.com/user-attachments/assets/43265f42-80df-44dd-8753-0e3b0eb2c33d" />
+</br>
+<u>img 1.</u> mapping(transforming) an closed interval to another set
+
+$$
+-
+$$
+
+
