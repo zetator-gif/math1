@@ -75,8 +75,9 @@ $$
 </br>
 <u>img 1.</u> mapping(transforming) an closed interval to another set
 
+
 $$
--
+(simulated) PPI \notin public APIs
 $$
 
 
