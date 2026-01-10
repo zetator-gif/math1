@@ -18,16 +18,52 @@ http://tnw-nb-open-courses.tudelft.nl/NB2220/content/Exercise_set_4.html
 
 psi index with a subscript -> different combinations of particle velocities can result in the same combination of energy in macrostate
 
+logical equivalent : <br>
 
+$$
+statement 1 ⟺statement 2
+$$
+
+<br>
+
+**2.3.1** if the function gives the same output for both, then inputs must be the same
+
+$$
+∀x1​,x2​∈U,f(x1​)=f(x2​)⇒x1​=x2​
+$$
+
+if __statement1__ is true then __statement2__ is also true
+if __statement2__ is true then __statement1__ is also true
 
 ---
 title: "Project Title"
 author: "zeta"
 date: 2026-01-09
 ---
+```python
+import numpy as np
+import matplotlib.pyplot as plt
 
+t = np.linspace(0, 2*np.pi, 400)
+x = np.cos(t)
+y = np.sin(t)
 
-# Introduction
+plt.plot(x, y)
+plt.axhline(0)
+plt.axvline(0)
+plt.gca().set_aspect('equal')
+plt.title(r'$T(t) = (\cos t, \sin t)$')
+plt.show()
+```
+
+#
+In
+
+$$
+\mathbb[R]^2 
+$$
+
+a point is written as (x,y)  
 
 
 
