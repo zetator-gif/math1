@@ -17,3 +17,6 @@ $$
 $$
 f(x_1) = f(x_2) \Rightarrow x_1 \neq x_2​
 $$
+
+2.3.2 Surjection Type(onto fn') - "surjection covers entire target set"
+every element in target set has pre-image in the domain set
