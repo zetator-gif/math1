@@ -36,6 +36,34 @@ _2}}
   = {\frac{v_1}{v_2}}
 $$
 
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Parameter domain [0, 2π]
+t = np.linspace(0, 2*np.pi)
+
+# Map T(t)
+x = np.cos(t)
+y = np.sin(t)
+
+# Plot
+plt.figure(figsize=(5, 5))
+plt.plot(x, y, label=r"$T(t) = (\cos t, \sin t)$")
+
+# Axes and formatting
+plt.xlabel(r"$x$")
+plt.ylabel(r"$y$")
+plt.title(r"Map $T:[0,2\pi]\to\mathbb{R}^2$")
+plt.axis("equal")
+plt.grid(True)
+plt.legend()
+
+plt.show()
+$$
+
+<img width="483" height="480" alt="{0181504A-CC30-46FF-A9B1-5DC6FAAAA496}" src="https://github.com/user-attachments/assets/88f20b6c-ba04-450c-bdd1-9b3993c82586" />
+
+
 1001. [**logarithmic number line**]<br>
       raising power/dividing with distance[**scaling by a fixed factor**-true for all logarithmic number line] instead of adding/distracting same amount(better granularity, much larger spectrum)
 
