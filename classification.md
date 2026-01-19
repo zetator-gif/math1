@@ -1,4 +1,4 @@
-**injection** -<br> **injective** no two different inputs result in same output
+**injection** -<br> **injective** no two different inputs result in same output, if two inputs are same two outputs are also same
 
 $$
 f(x_1) \neq f(x_2) \Rightarrow x_1 \neq x_2​
@@ -19,9 +19,7 @@ f(x_1) = f(x_2) \Rightarrow x_1 \neq x_2​
 $$
 
 2.3.2 Surjection Type(onto fn') - "surjection covers entire target set"
-every element in target set has pre-image in the domain set
-
-1000. ray can be formed by any waves(optical, acoustic, microwave, X-ray, matter wave)
+every element in target set has pre-image in the domain set:
 
     matter exhibits wave-like behavior. For example, a beam of electrons can be diffracted
 
