@@ -1,6 +1,6 @@
 M1 - [Differential and Integral Calculus Theory and Cases
-Door Carlos Polanco](https://example.com](https://books.google.nl/books?id=xDy_zQEACAAJ&printsec=copyright&redir_esc=y#v=onepage&q&f=false))
-https://en.wikipedia.org/wiki/Logical_connective
+Door Carlos Polanco](https://example.com](https://books.google.nl/books?id=xDy_zQEACAAJ&printsec=copyright&redir_esc=y#v=onepage&q&f=false))<br>
+https://en.wikipedia.org/wiki/Logical_connective<br>
 https://math.stackexchange.com/questions/615925/who-came-up-with-the-varepsilon-delta-definitions-and-the-axioms-in-real-a
 an put many different definitions. Actually, there are definitions of derivatives that do not agree with each other (for more complicated object than x2
 ). The question about definitions doesn't begin form their names. It begins from the notion you want to give a name.
