@@ -21,7 +21,11 @@ $$
 2.3.2 Surjection Type(onto fn') - "surjection covers entire target set"
 every element in target set has pre-image in the domain set:
 
-    matter exhibits wave-like behavior. For example, a beam of electrons can be diffracted
+$$
+x \forall \exists
+$$
+
+ matter exhibits wave-like behavior. For example, a beam of electrons can be diffracted
 
    **Snell's law** - relationship between **angles of incidence** and refraction when wave passes through boundary between two different **isotropic media**
 
